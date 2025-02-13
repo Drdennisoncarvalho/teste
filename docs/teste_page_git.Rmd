@@ -1,0 +1,20 @@
+---
+title: "teste de página git"
+author: "Dennison Carvalho"
+date: "2025-02-13"
+output: html_document
+---
+
+# Teste de página git
+
+* Neste arquivo tentaremos subir apenas o html do Rmarkdown para uma page do github
+
+## Enchendo a página
+
+```{r}
+plot(iris$Petal.Width,iris$Petal.Length)
+```
+
+# Mais algumas mudanças
+
+
